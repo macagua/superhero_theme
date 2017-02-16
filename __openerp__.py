@@ -1,7 +1,7 @@
 {
     # Theme information
     'name': "superheroe_theme",
-    'description': """
+    'description': """ Example of a bootstrap theme moved into Odoo 9!
     """,
     'category': 'Theme',
     'version': '1.0',
@@ -20,6 +20,6 @@
     ],
 
     # Your information
-    'author': "My Company",
-    'website': "",
+    'author': "Leonardo J. Caballero G.",
+    'website': "https://lcaballero.wordpress.com/",
 }
