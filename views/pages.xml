@@ -1,0 +1,11 @@
+<openerp>
+    <data>
+        <template id="website.superhero_theme" name="theme_superhero_theme" inherit_id="website.theme" priority="1">
+            <xpath expr="//link[last()]" position="after">
+                <link href="/superhero_theme/static/src/less/bootstrap.css" rel="stylesheet" type="text/css" />
+                <link href="/superhero_theme/static/src/less/variables.less" rel="stylesheet" type="text/css" />
+                <link href="/superhero_theme/static/src/less/custom.less" rel="stylesheet" type="text/css" />
+            </xpath>
+        </template>
+    </data>
+</openerp>

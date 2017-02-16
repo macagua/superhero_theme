@@ -9,8 +9,9 @@
 
     # templates
     'data': [
-        'views/options.xml',
-        'views/snippets.xml',
+        'views/pages.xml',
+        # 'views/options.xml',
+        # 'views/snippets.xml',
     ],
 
     # demo pages
