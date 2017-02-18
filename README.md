@@ -25,5 +25,5 @@ Please, chechout the original Bootswatch Superheroe Theme **[here](http://bootsw
 
 ## License
 
-MIT License
+MIT License.
 
