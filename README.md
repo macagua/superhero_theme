@@ -23,3 +23,7 @@ Please, chechout the original Bootswatch Superheroe Theme **[here](http://bootsw
 
 ![alt text](https://raw.githubusercontent.com/macagua/superhero_theme/master/static/description/bootswatch_superhero_palette.png "Bootswatch Superhero Theme Palette")
 
+## License
+
+MIT License
+
