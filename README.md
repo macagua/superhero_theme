@@ -1,6 +1,6 @@
 # Bootswatch Superhero Theme for Odoo
 
-This theme module is exclusively for master theme to keep the support of Bootswatch Superhero Theme into Odoo 9.
+This **Frontend theme module** is exclusively for master theme to keep the support of Bootswatch Superhero Theme into Odoo 9.
 
 ## Bootswatch Superhero Theme
 
